@@ -1,1 +1,1 @@
-my first project
+Project for boot.dev
